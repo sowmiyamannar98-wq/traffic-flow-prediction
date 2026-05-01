@@ -1,0 +1,12 @@
+# Large dataset files (too large for GitHub)
+pems_bay-20260414T143328Z-3-001.zip
+pems_bay_processed.npz
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
